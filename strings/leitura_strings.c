@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(){
-
+int main()
+{
     char palavra [5] = {'N', 'a', 't', 'y'};
     char palavra1 [] = {'Y', 'u', 'r', 'i'};
     char palavra2 [5];
